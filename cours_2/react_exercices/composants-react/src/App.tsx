@@ -5,13 +5,11 @@ const App: FC = () => {
 
   return (
     <div>
-      <>
       <header>
           <img src="src/assets/react.svg" className="logo react" alt="React logo" />
           <h1>Bienvenue sur mon app React</h1>
           <h2>Cette page utilise React</h2>
         </header>
-      </>
       <main>
         <section>
           <h2>À propos</h2>
